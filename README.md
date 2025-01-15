@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Eshop**
 
-- 🌱 I’m currently learning **React Native / Expo and ExpressJS**
+- 🌱 I’m currently learning **React Native, ExpressJS and PostgreSQL**
 
 
 <h3 align="left">Languages and Tools:</h3>
