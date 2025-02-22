@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on **Eshop**
+- 🔭 I’m currently working on **HomeRadar**
 
 - 🌱 I’m currently learning **React Native, ExpressJS and PostgreSQL**
 
